@@ -23,7 +23,7 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Leverage Codespaces with VS Code for Copilot
+## Step 1: Leverage Codespaces with VS Code for Copilot a
 
 _Welcome to "Develop With AI Powered Code Suggestions Using GitHub Copilot and VS Code"! :wave:_
 
